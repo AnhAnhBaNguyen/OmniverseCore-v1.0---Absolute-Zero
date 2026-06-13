@@ -1,9 +1,9 @@
-# 🌌 OMNIVERSECORE v1.2 — ABSOLUTE ZERO
+# 🌌 OMNIVERSECORE v1.3.3 — ABSOLUTE ZERO
 
 
 > **Triết lý thiết kế:** Tinh khiết – Tối giản – Tối đa hiệu năng phần cứng (P/P tối thượng).
 
-**OmniverseCore v1.0** là cỗ máy lọc mạng và giám sát tài nguyên hệ thống chuyên sâu, được xây dựng trên nền tảng `VpnService` thuần của Android kết hợp với giao diện Jetpack Compose hiện đại. 
+**OmniverseCore v1.3.3** là cỗ máy lọc mạng và giám sát tài nguyên hệ thống chuyên sâu, được xây dựng trên nền tảng `VpnService` thuần của Android kết hợp với giao diện Jetpack Compose hiện đại. 
 
 Phiên bản **Absolute Zero** đánh dấu một cuộc cách mạng "thanh lọc" triệt để: loại bỏ hoàn toàn các tính năng chạy ngầm rườm rà (WebView, Sync nền, Rung) để đạt tới trạng thái **0 quảng cáo rác, 0 độ trễ luồng mạng và tiêu thụ 0% năng lượng thừa**.
 
@@ -46,4 +46,4 @@ Thay vì các tính năng giải trí WebView làm nặng máy, hệ thống tra
 
 ## 🛡️ KẾT LUẬN
 
-**OmniverseCore v1.2 Absolute Zero** không chỉ là một ứng dụng chặn quảng cáo; nó là một tấm khiên tàng hình, một trung tâm chỉ huy tối giản tối thượng dành riêng cho những chiếc điện thoại cần hiệu năng thuần khiết nhất!
+**OmniverseCore v1.3.3 Absolute Zero** không chỉ là một ứng dụng chặn quảng cáo; nó là một tấm khiên tàng hình, một trung tâm chỉ huy tối giản tối thượng dành riêng cho những chiếc điện thoại cần hiệu năng thuần khiết nhất!

@@ -1,4 +1,4 @@
-# 🌌 OMNIVERSECORE v1.0 — ABSOLUTE ZERO
+# 🌌 OMNIVERSECORE v1.2 — ABSOLUTE ZERO
 
 
 > **Triết lý thiết kế:** Tinh khiết – Tối giản – Tối đa hiệu năng phần cứng (P/P tối thượng).

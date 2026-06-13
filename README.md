@@ -46,4 +46,4 @@ Thay vì các tính năng giải trí WebView làm nặng máy, hệ thống tra
 
 ## 🛡️ KẾT LUẬN
 
-**OmniverseCore v1.0 Absolute Zero** không chỉ là một ứng dụng chặn quảng cáo; nó là một tấm khiên tàng hình, một trung tâm chỉ huy tối giản tối thượng dành riêng cho những chiếc điện thoại cần hiệu năng thuần khiết nhất!
+**OmniverseCore v1.2 Absolute Zero** không chỉ là một ứng dụng chặn quảng cáo; nó là một tấm khiên tàng hình, một trung tâm chỉ huy tối giản tối thượng dành riêng cho những chiếc điện thoại cần hiệu năng thuần khiết nhất!
